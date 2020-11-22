@@ -17,11 +17,11 @@
 
 Describe your project
 
-## :sparkles: Features ##
+## :sparkles: Models ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Principal Component Analysis;\
+:heavy_check_mark: K-means Clustering;\
+:heavy_check_mark: Multilayer perceptron Classifier;
 
 ## :rocket: Technologies ##
 
@@ -45,7 +45,7 @@ $ cd clustering_ann_mlp
 
 ```
 
-Made with :heart: by <a href="https://github.com/shareqahmed" target="_blank">shareqahmed</a>
+Made by <a href="https://github.com/shareqahmed" target="_blank">shareqahmed</a>
 
 &#xa0;
 
