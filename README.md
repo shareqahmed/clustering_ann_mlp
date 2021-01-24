@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#sparkles-features">Models</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -17,11 +17,11 @@
 
 Describe your project
 
-## :sparkles: Features ##
+## :sparkles: Models ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Principal Component Analysis;\
+:heavy_check_mark: K-means Clustering;\
+:heavy_check_mark: Multilayer perceptron Classifier;
 
 ## :rocket: Technologies ##
 
@@ -45,7 +45,7 @@ $ cd clustering_ann_mlp
 
 ```
 
-Made with :heart: by <a href="https://github.com/shareqahmed" target="_blank">shareqahmed</a>
+Made by <a href="https://github.com/shareqahmed" target="_blank">shareqahmed</a>
 
 &#xa0;
 
